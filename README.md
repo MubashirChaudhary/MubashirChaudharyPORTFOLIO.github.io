@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/templates/creative.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/)
+[![Creative Preview](https://startbootstrap.com/assets/img/templates/creative.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/) file:///C:/Users/Mubashir%20Chaudhary/Desktop/Semester%205/The%20Emerging%20Interface/Portfolio/MubashirChaudharyPORTFOLIO.github.io-master/index.html
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
 
